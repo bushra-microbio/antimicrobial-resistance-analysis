@@ -1,7 +1,7 @@
 # Antimicrobial Resistance Analysis
 
 ## 👩‍🔬 Author
-Bushra Mumtaz
+Bushra Mumtaz 
 
 ## 📌 Overview
 This project presents a basic data analysis of antimicrobial resistance patterns in Klebsiella pneumoniae. It demonstrates the use of Python for handling biological datasets and visualizing resistance trends.
