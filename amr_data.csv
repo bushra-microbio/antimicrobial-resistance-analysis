@@ -1,0 +1,11 @@
+Antibiotic,Resistance_Rate,Resistant
+Ampicillin,85,1
+Ciprofloxacin,50,1
+Gentamicin,25,0
+Ceftriaxone,65,1
+Meropenem,15,0
+Imipenem,20,0
+Amikacin,30,0
+Tetracycline,70,1
+Colistin,5,0
+Piperacillin,60,1
